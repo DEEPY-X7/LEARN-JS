@@ -30,3 +30,25 @@ console.log(d.toUppercase())
 console.log(d.slice())
 
 
+let M ="Hawry"
+M.slice (2,4)
+
+
+let name = "Harry"
+name. slice (2)
+
+let nil = "nilanshu bhai"
+let newnil = name.replace "bhai" to "bhau";
+
+
+let name1 = "Harry" 
+let name2 = "Naman"
+let name 3 = name1.Concat (name2, " Yes") 
+
+ let name = " Harry";
+  let newName = name.triml();
+
+  let name = Harry";
+
+cosole.log( name [o]) 
+cosole.log( name [1]) 
