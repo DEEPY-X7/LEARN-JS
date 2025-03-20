@@ -1,0 +1,18 @@
+*{
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0;
+    gap: 10px;
+
+}
+img{
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+    align-items: center;
+}
