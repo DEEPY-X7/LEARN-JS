@@ -1,0 +1,35 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+    margin: 0;
+}
+
+nav{
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #e7e7e7;
+    border-top: 1px solid #e7e7e7;
+    margin-bottom: 20px;
+    padding: 10px 0;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    z-index: 1000;
+
+}
+nav li{
+    display: inline-block;
+    margin-right: 10px;
+    padding: 0 10px;
+    list-style: none;
+    font-size: 16px;
+    padding: 10px 20px;
+    color: #333;
+    text-decoration: none;
+    transition: all 0.3s;
+    cursor: pointer;
+    background-color: rgb(114, 114, 114);
+}
