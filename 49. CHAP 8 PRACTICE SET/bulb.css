@@ -1,0 +1,36 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.bulb {
+  height: 341px;
+  width: 341px;
+  background: yellow;
+  margin: 0 auto;
+  border-radius: 50%;
+  position: relative;
+  box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.5);
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font: bold 1.5em sans-serif;
+  color: #333;
+}
+.bulbcontainer{
+    height: 341px;
+  width: 341px;
+  background: rgb(9, 7, 138);
+  margin: 0 auto;
+  border-radius: 50%;
+  position: relative;
+  box-shadow: 0 0 10px 10px rgba(9, 255, 0, 0.5);
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font: bold 1.5em sans-serif;
+  color: #e21313;
+}
