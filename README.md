@@ -30,7 +30,7 @@ Yeh repository **JavaScript** ka ek complete collection hai jo maine **CodeWithH
 🔹 **LocalStorage & SessionStorage** – Storing & Retrieving Data  
 🔹 **Mini Projects** – Simple Projects using JavaScript  
 
-📖 **[📜 Get Handwritten Notes by CodeWithHarry](https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/notes/JavaScript_Complete_Notes.pdf)**  
+📖 **[📜 Get Handwritten Notes by CodeWithHarry]([https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/notes/JavaScript_Complete_Notes.pdf](https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/notes/JS_Chapterwise_Notes.pdf))**  
 
 ---
 
@@ -73,7 +73,7 @@ Agar tum bhi is repository ko improve karna chahte ho, toh Pull Request bhejo!
 ## 🌟 Credits  
 📌 Yeh repository maine **CodeWithHarry ke tutorials** ko follow karke banayi hai. Unka **free JavaScript course** beginners ke liye bahut hi helpful hai. Agar tum JavaScript seekhna chahte ho, toh zaroor check karo!  
 
-🔗 **[CodeWithHarry - JavaScript Course](https://www.codewithharry.com/videos/javascript-tutorials-in-hindi-1/)**  
+🔗 **[CodeWithHarry - JavaScript Course -YouTube]([https://www.codewithharry.com/videos/javascript-tutorials-in-hindi-1/](https://youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR&si=x1tBz0GGvpS1q6SL))**  
 
 ---
 
