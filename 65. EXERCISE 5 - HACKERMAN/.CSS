@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: #00ff00;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    padding: 20px;
+}
+
+.console {
+    width: 80%;
+    margin: auto;
+    white-space: pre-line;
+    overflow: hidden;
+    text-align: center;
+    
+}
+
+.blink {
+    display: inline-block;
+    width: 10px;
+    height: 18px;
+    background-color: #00ff00;
+    animation: blink 0.8s infinite;
+}
+
+@keyframes blink {
+    50% { opacity: 0; }
+}
